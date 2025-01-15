@@ -3,7 +3,9 @@
 # Swashteroids
 _An example using the Swash framework_
 
-Swashteroids uses the ECS framework [Swash](https://github.com/johnrnyquist/Swash) along with some SpriteKit, UIKit, and SwiftUI. It is small (less than 4MB), fast, continually improving, open source, and fun! Get it in the [App Store](https://apps.apple.com/us/app/swashteroids/id6472061502)!
+Swashteroids uses the ECS framework [Swash](https://github.com/johnrnyquist/Swash) along with some SpriteKit, UIKit, and SwiftUI. It is small (less than 4MB), fast, continually improving, open source, and fun! 
+
+Get the full, latest version that suppports game controllers in the [App Store](https://apps.apple.com/us/app/swashteroids/id6472061502)!
 
 Here's a [video](https://www.youtube.com/watch?v=gP2bKw4NAHw) of the gameplay.
 
